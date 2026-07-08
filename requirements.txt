@@ -1,0 +1,7 @@
+numpy
+scipy
+scikit-learn
+matplotlib
+xgboost
+qiskit>=2.0.0
+qiskit-ibm-runtime>=0.30.0
