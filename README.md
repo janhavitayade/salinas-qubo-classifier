@@ -13,7 +13,7 @@
 
 - 📄 [One-Page Project Summary](docs/salinas_qubo_onepager.pdf)
 - 📘 [Full Research Paper](docs/paper.pdf)
-- 📊 Interactive Dashboard (`index.html`)
+- 📊  [Live Interactive Dashboard](https://janhavitayade.github.io/salinas-qubo-classifier/)
 
 ---
 
